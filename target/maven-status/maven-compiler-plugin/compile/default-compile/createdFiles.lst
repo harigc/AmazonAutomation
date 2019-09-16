@@ -1,0 +1,4 @@
+pages\JavaAPI_Automation.class
+pages\CreateAccountPage.class
+pages\LoginPage.class
+utils\SeleniumHelper.class
